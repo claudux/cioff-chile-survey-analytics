@@ -36,8 +36,8 @@ El dashboard y el análisis permitieron:
 ## Vista previa del proyecto
 
 <p align="center">
-  <img src="images/cioff-dashboard.png" alt="Dashboard CIOFF" width="48%">
-  <img src="images/cioff-results.png" alt="Resultados CIOFF" width="48%">
+  <img src="images/cioff1.png" alt="Dashboard CIOFF" width="48%">
+  <img src="images/cioff2.png" alt="Resultados CIOFF" width="48%">
 </p>
 
 ## Documentación adicional
