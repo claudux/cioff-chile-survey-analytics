@@ -49,4 +49,6 @@ El dashboard y el análisis permitieron:
 Este repositorio presenta una versión adaptada del caso real, sin exponer información sensible ni información interna reservada.
 
 ## Contacto
+
+Si quieres conocer más sobre este proyecto o mi trabajo en automatización y análisis de datos, puedes escribirme a:  
 [claudio.duran.m@gmail.com](mailto:claudio.duran.m@gmail.com)
