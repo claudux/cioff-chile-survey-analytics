@@ -6,7 +6,7 @@ Análisis de encuestas y visualización de datos para apoyar la mejora operativa
 Diseñar y desarrollar un proceso de captura, extracción, limpieza y análisis de datos de encuestas para identificar oportunidades de mejora y apoyar la toma de decisiones de los organizadores.
 
 ## Contexto
-Este proyecto consistió en la generación de una encuesta, automatización de captura de respuestas, extracción de datos, limpieza y análisis posterior. El resultado final permitió evaluar la experiencia de participantes y entregar información accionable para mejorar procesos y optimizar esfuerzos organizativos.
+Este proyecto consistió en la generación de una encuesta, automatización de captura de respuestas, extracción de datos, limpieza y análisis posterior. El resultado final permitió evaluar la experiencia de los asistentes y entregar información confiable para mejorar procesos y optimizar esfuerzos organizativos.
 
 ## Problema
 Los organizadores requerían una forma estructurada de recoger opiniones, consolidar respuestas y obtener hallazgos útiles para detectar deficiencias y orientar mejoras.
